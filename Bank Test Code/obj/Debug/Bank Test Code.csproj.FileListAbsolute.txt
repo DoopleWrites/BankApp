@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Bank Test Code\Bank Test Code\bin\Debug\Bank Test Code.exe.config
+C:\Users\Admin\source\repos\Bank Test Code\Bank Test Code\bin\Debug\Bank Test Code.exe
+C:\Users\Admin\source\repos\Bank Test Code\Bank Test Code\bin\Debug\Bank Test Code.pdb
+C:\Users\Admin\source\repos\Bank Test Code\Bank Test Code\obj\Debug\Bank Test Code.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Bank Test Code\Bank Test Code\obj\Debug\Bank_Test_Code.Properties.Resources.resources
+C:\Users\Admin\source\repos\Bank Test Code\Bank Test Code\obj\Debug\Bank Test Code.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Bank Test Code\Bank Test Code\obj\Debug\Bank Test Code.exe
+C:\Users\Admin\source\repos\Bank Test Code\Bank Test Code\obj\Debug\Bank Test Code.pdb
+C:\Users\Admin\source\repos\Bank Test Code\Bank Test Code\obj\Debug\Bank_Test_Code.Home.resources
+C:\Users\Admin\source\repos\Bank Test Code\Bank Test Code\obj\Debug\Bank_Test_Code.Form1.resources
